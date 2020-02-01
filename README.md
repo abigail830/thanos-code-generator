@@ -1,6 +1,7 @@
 # Thanos CodeGenerator
 
 [![Build Status](https://travis-ci.org/abigail830/thanos-code-generator.svg?branch=master)](https://travis-ci.org/abigail830/thanos-code-generator)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fabigail830%2Fthanos-code-generator.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fabigail830%2Fthanos-code-generator?ref=badge_shield)
 [![](https://jitpack.io/v/abigail830/thanos-code-generator.svg)](https://jitpack.io/#abigail830/thanos-code-generator)
 [![codecov](https://codecov.io/gh/abigail830/thanos-code-generator/branch/master/graph/badge.svg)](https://codecov.io/gh/abigail830/thanos-code-generator)
 
@@ -78,3 +79,7 @@ public class Consumer2ProviderTest {
 
 ```
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fabigail830%2Fthanos-code-generator.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fabigail830%2Fthanos-code-generator?ref=badge_large)
