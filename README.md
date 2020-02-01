@@ -3,6 +3,8 @@
 [![Build Status](https://travis-ci.org/abigail830/thanos-code-generator.svg?branch=master)](https://travis-ci.org/abigail830/thanos-code-generator)
 [![](https://jitpack.io/v/abigail830/thanos-code-generator.svg)](https://jitpack.io/#abigail830/thanos-code-generator)
 [![codecov](https://codecov.io/gh/abigail830/thanos-code-generator/branch/master/graph/badge.svg)](https://codecov.io/gh/abigail830/thanos-code-generator)
+[![Maintainability](https://api.codeclimate.com/v1/badges/7df56b1c8aaa84ff9131/maintainability)](https://codeclimate.com/github/abigail830/thanos-code-generator/maintainability)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fabigail830%2Fthanos-code-generator.svg?type=shield)]
 
 ## How to use
 
