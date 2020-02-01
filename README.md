@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/abigail830/thanos-code-generator.svg?branch=master)](https://travis-ci.org/abigail830/thanos-code-generator)
 [![](https://jitpack.io/v/abigail830/thanos-code-generator.svg)](https://jitpack.io/#abigail830/thanos-code-generator)
+[![codecov](https://codecov.io/gh/abigail830/thanos-code-generator/branch/master/graph/badge.svg)](https://codecov.io/gh/abigail830/thanos-code-generator)
 
 ## How to use
 
