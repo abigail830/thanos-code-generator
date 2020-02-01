@@ -9,3 +9,5 @@ jdk: openjdk8
 #- chmod +x mvnw
 install:
 - mvn clean package -DskipTests=true -Dmaven.javadoc.skip=true
+after_success:
+- bash <(curl -s https://codecov.io/bash)
