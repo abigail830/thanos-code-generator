@@ -1,5 +1,8 @@
 # Thanos CodeGenerator
 
+[![Build Status](https://travis-ci.org/abigail830/thanos-code-generator.svg?branch=master)](https://travis-ci.org/abigail830/thanos-code-generator)
+[![](https://jitpack.io/v/abigail830/thanos-code-generator.svg)](https://jitpack.io/#abigail830/thanos-code-generator)
+
 ## How to use
 
 1. 准备好契约(/resources/contracts)和接口定义(/resource/schemas)
