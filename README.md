@@ -1,5 +1,7 @@
 # Thanos CodeGenerator
 
+![Java CI with Maven](https://github.com/abigail830/thanos-code-generator/workflows/Java%20CI%20with%20Maven/badge.svg)
+
 [![Build Status](https://travis-ci.org/abigail830/thanos-code-generator.svg?branch=master)](https://travis-ci.org/abigail830/thanos-code-generator)
 [![](https://jitpack.io/v/abigail830/thanos-code-generator.svg)](https://jitpack.io/#abigail830/thanos-code-generator)
 [![codecov](https://codecov.io/gh/abigail830/thanos-code-generator/branch/master/graph/badge.svg)](https://codecov.io/gh/abigail830/thanos-code-generator)
